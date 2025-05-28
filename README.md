@@ -1,1 +1,1 @@
-# Dua_NCAI
+# 🧠 Neuroimaging Practice Repository
